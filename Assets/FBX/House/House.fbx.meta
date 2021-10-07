@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: a6f63d2bdfb36104ebaea019a352b054
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -4331277294980057126
+    second: Curtain|PlaneAction
+  - first:
+      74: -2064520584898352611
+    second: Curtain|PlaneAction.001
+  - first:
+      74: 614903504187683271
+    second: Curtain.001|PlaneAction
+  - first:
+      74: 5859828818851538585
+    second: Curtain.001|PlaneAction.001
+  - first:
+      74: -8598385125164160447
+    second: Curtain|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: -7853819084680341103
+    second: Curtain|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: -5332928687498323309
+    second: Curtain|mirabel_98_pewter|Take 001|BaseLayer.001
+  - first:
+      74: 995456384269250729
+    second: Curtain|mirabel_98_pewter|Take 001|BaseLayer.002
+  - first:
+      74: -4568805068490599871
+    second: Curtain|mirabel_98_pewter|Take 001|BaseLayer.003
+  - first:
+      74: 4317471265027787423
+    second: CoronaCamera001|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: -2239454086952190488
+    second: CoronaCamera001|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: -2146964424711654768
+    second: CoronaCamera001|mirabel_98_pewter|Take 001|BaseLayer.001
+  - first:
+      74: -6216824759585212833
+    second: CoronaCamera001|mirabel_98_pewter|Take 001|BaseLayer.002
+  - first:
+      74: -4919868830751829492
+    second: CoronaCamera001|mirabel_98_pewter|Take 001|BaseLayer.003
+  - first:
+      74: 149283069600321936
+    second: mirabel_98_pewter|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 7729244204355361972
+    second: mirabel_98_pewter|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 4169902838196208546
+    second: mirabel_98_pewter|mirabel_98_pewter|Take 001|BaseLayer.001
+  - first:
+      74: -3181912611622844731
+    second: mirabel_98_pewter|mirabel_98_pewter|Take 001|BaseLayer.002
+  - first:
+      74: -7824327430971580889
+    second: mirabel_98_pewter|mirabel_98_pewter|Take 001|BaseLayer.003
+  - first:
+      74: -1262649751968518426
+    second: mirabel_98_pewter.001|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: -4761447702963538816
+    second: mirabel_98_pewter.001|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: -4241354719741434725
+    second: mirabel_98_pewter.001|mirabel_98_pewter|Take 001|BaseLayer.001
+  - first:
+      74: 6136130408228368545
+    second: mirabel_98_pewter.001|mirabel_98_pewter|Take 001|BaseLayer.002
+  - first:
+      74: -6983766210509408677
+    second: mirabel_98_pewter.001|mirabel_98_pewter|Take 001|BaseLayer.003
+  - first:
+      74: 6660965873768925863
+    second: mirabel_98_pewter.002|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 6780831808504523874
+    second: mirabel_98_pewter.002|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: -1676082571479866198
+    second: mirabel_98_pewter.002|mirabel_98_pewter|Take 001|BaseLayer.001
+  - first:
+      74: 566245386504333099
+    second: mirabel_98_pewter.002|mirabel_98_pewter|Take 001|BaseLayer.002
+  - first:
+      74: 8561718087248816110
+    second: mirabel_98_pewter.002|mirabel_98_pewter|Take 001|BaseLayer.003
+  - first:
+      74: 2100736863531978085
+    second: mirabel_98_pewter.003|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: -533804050967602078
+    second: mirabel_98_pewter.003|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 8620897361279231789
+    second: mirabel_98_pewter.003|mirabel_98_pewter|Take 001|BaseLayer.001
+  - first:
+      74: -3664299984177405022
+    second: mirabel_98_pewter.003|mirabel_98_pewter|Take 001|BaseLayer.002
+  - first:
+      74: -5751640979369249089
+    second: mirabel_98_pewter.003|mirabel_98_pewter|Take 001|BaseLayer.003
+  - first:
+      74: -6380278868100731451
+    second: Curtain|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 8678619990298334341
+    second: CoronaCamera001|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 1746584642476732372
+    second: mirabel_98_pewter.003|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 6546112346684959561
+    second: mirabel_98_pewter.001|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 5788833379073745667
+    second: mirabel_98_pewter.002|mirabel_98_pewter|Take 001|BaseLayer.004
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bark_4
+    second: {fileID: 2100000, guid: 529474904239c384aa0a6011d13d643c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BarningWood
+    second: {fileID: 2100000, guid: fe48575c9b8dd824ab1ee8e2825d2700, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackGranite
+    second: {fileID: 2100000, guid: 49f095da8a2c378418fa0c716794cc14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Border
+    second: {fileID: 2100000, guid: 07fa8c71b54ff444d8fab951620dbba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CellingConcrete
+    second: {fileID: 2100000, guid: 18ac77a6c4eeddd4da75bc2e554dcf61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain
+    second: {fileID: 2100000, guid: 5a3a1dad44c8dac46a5303756fb847ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorWhite
+    second: {fileID: 2100000, guid: d6e507695715ad44c8a3c38ea24a968c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DriveWay
+    second: {fileID: 2100000, guid: 41104db941035eb42965e5700c8f673b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Expres
+    second: {fileID: 2100000, guid: cb439bb925ea3464bb903a102238f84a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ExpressGrille
+    second: {fileID: 2100000, guid: ba552cd39dcc56447a0099ae7948c498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 261f7d313a4076d4483467e48d5f467f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foundation
+    second: {fileID: 2100000, guid: 3fcf40545bfa4c44f9c86eec3f466909, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: 43a1356b0f6263b4d9d379fa2b13f283, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey
+    second: {fileID: 2100000, guid: dea2a1c0b3beb6f42947a36ff40901ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: fc6cf5bc34400f345ae500383faa81ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror
+    second: {fileID: 2100000, guid: 0293e4165073bc4448386bbcd335eb6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: af977841056d72c48bfca911478c261a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OvenDoor
+    second: {fileID: 2100000, guid: c9d98c8915b2be0419dde24a71b80cf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OvenMetal
+    second: {fileID: 2100000, guid: 93f9c0a12b707c54f89e3be8441c0948, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OvenTransparent
+    second: {fileID: 2100000, guid: 226077a524449944b9f03dd6b57e6132, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa
+    second: {fileID: 2100000, guid: a1ea0f88d034cc74ea1d2abd40049e76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel
+    second: {fileID: 2100000, guid: 9e9c2fabc8807d1408ad5f903120242c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SteelSink
+    second: {fileID: 2100000, guid: 2047f6360bc618844a5b38ffa02a9fe1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stones
+    second: {fileID: 2100000, guid: e65e26ce47618e4468e3c8ee905cf2dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV
+    second: {fileID: 2100000, guid: 837b46b3c1cc0e54783d047254d6712d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TapBlack
+    second: {fileID: 2100000, guid: 88a941bb6932b7e4bb96376b644907fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terrace
+    second: {fileID: 2100000, guid: 7a6cdb56e7351ee45a9dae45d8e70d0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2_cuts.003
+    second: {fileID: 2100000, guid: 5cd9c428057558340a53093de728df77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallAntracyt
+    second: {fileID: 2100000, guid: 32a95645896cfc346aff4397b6997e68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallWhite_Inside
+    second: {fileID: 2100000, guid: 5c3eb78fa4f996a4795c86773cdb1a88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallWhite_Outside
+    second: {fileID: 2100000, guid: 931208a35241c4b40bc970f9d759bf5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallWood
+    second: {fileID: 2100000, guid: 92b54b78be8af07499d125c8049fbbe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowAluminium
+    second: {fileID: 2100000, guid: 0ce60b7f4381f4c4490a89de5a3996e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowAluminium.001
+    second: {fileID: 2100000, guid: 1d468c61d7c481f4993a951feb7596ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowAntracyt
+    second: {fileID: 2100000, guid: a4bbc8eefdfc3624ab69be9ca8ebe4b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowAntracyt.001
+    second: {fileID: 2100000, guid: 89ab2de9a1e31d14dab2980e9f9b6bf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowsGlass
+    second: {fileID: 2100000, guid: 9600a8ec64e4e4a498e83210be185ec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowsGlass.001
+    second: {fileID: 2100000, guid: 5248d72ad5b8c27428dea42decac5112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodFornire
+    second: {fileID: 2100000, guid: edb9bfac8676df14a8582737fc05e416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bark04
+    second: {fileID: 2100000, guid: a20cad65dd986df4cb6ae23d67861770, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: elm leaf
+    second: {fileID: 2100000, guid: e1b3c12db4321764eac80670a1ac0496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fire_png_by_ashrafcrew_d61p4lg1
+    second: {fileID: 2100000, guid: 02ad6a7677abbc44cad7fe31bd9ac6fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: firewood
+    second: {fileID: 2100000, guid: 37f7856b509de12489b483f314c7d836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: log_split_face_1
+    second: {fileID: 2100000, guid: 3a65d67bf495d724eacf370b711dd2b2, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 2
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
