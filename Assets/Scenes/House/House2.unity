@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 1760.7468, g: 2100.0652, b: 2888.4438, a: 1}
+  m_IndirectSpecularColor: {r: 1590.8767, g: 1928.5009, b: 2731.5464, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2525,7 +2525,7 @@ PrefabInstance:
     - target: {fileID: -9205963936574683542, guid: da4b4d805e4642b4b9856f10b3552764, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 885b382873b210b4c88829f3cf2fdd65, type: 2}
+      objectReference: {fileID: 2100000, guid: 017ea572dda8c45c08ff525e1ec9d1a2, type: 2}
     - target: {fileID: -8679921383154817045, guid: da4b4d805e4642b4b9856f10b3552764, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -2585,7 +2585,7 @@ PrefabInstance:
     - target: {fileID: -6270227633017860508, guid: da4b4d805e4642b4b9856f10b3552764, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: daebaa5f6474eb741a9849b83718e756, type: 2}
+      objectReference: {fileID: 2100000, guid: 885b382873b210b4c88829f3cf2fdd65, type: 2}
     - target: {fileID: -5722619836331864175, guid: da4b4d805e4642b4b9856f10b3552764, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -2601,7 +2601,7 @@ PrefabInstance:
     - target: {fileID: -850014206303231324, guid: da4b4d805e4642b4b9856f10b3552764, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: daebaa5f6474eb741a9849b83718e756, type: 2}
+      objectReference: {fileID: 2100000, guid: 885b382873b210b4c88829f3cf2fdd65, type: 2}
     - target: {fileID: -840183581110562421, guid: da4b4d805e4642b4b9856f10b3552764, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
@@ -5039,7 +5039,7 @@ MonoBehaviour:
       m_ObsoleteSphereBaseOffset: {x: 0, y: 0, z: 0}
       m_ObsoleteOffset: {x: 0, y: 0, z: 0}
       m_Shape: 0
-      m_BoxSize: {x: 7.23094, y: 5.074835, z: 8.44415}
+      m_BoxSize: {x: 8.03869, y: 5.074835, z: 12.286469}
       m_BoxBlendDistancePositive: {x: 0.4896895, y: 0.4896895, z: 0.4896895}
       m_BoxBlendDistanceNegative: {x: 0.4896895, y: 0.4896895, z: 0.4896895}
       m_BoxBlendNormalDistancePositive: {x: 0, y: 0, z: 0}
@@ -5284,12 +5284,12 @@ ReflectionProbe:
   m_Enabled: 1
   serializedVersion: 2
   m_Type: 0
-  m_Mode: 2
+  m_Mode: 1
   m_RefreshMode: 2
   m_TimeSlicingMode: 0
   m_Resolution: 128
   m_UpdateFrequency: 0
-  m_BoxSize: {x: 7.23094, y: 5.074835, z: 8.44415}
+  m_BoxSize: {x: 8.03869, y: 5.074835, z: 12.286469}
   m_BoxOffset: {x: 0, y: 0, z: 0}
   m_NearClip: 0.3
   m_FarClip: 1000
@@ -5315,7 +5315,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1293238436}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.5442076, y: 1.2991147, z: -4.060018}
+  m_LocalPosition: {x: -6.1403327, y: 1.2991147, z: -2.1388583}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -5906,7 +5906,7 @@ MonoBehaviour:
     mode: 0
     realtimeMode: 1
     lighting:
-      multiplier: 5.65
+      multiplier: 5.46
       weight: 1
       lightLayer: 1
       fadeDistance: 10000
@@ -5925,7 +5925,7 @@ MonoBehaviour:
       m_ObsoleteSphereBaseOffset: {x: 0, y: 0, z: 0}
       m_ObsoleteOffset: {x: 0, y: 0, z: 0}
       m_Shape: 0
-      m_BoxSize: {x: 12.881403, y: 3.6294432, z: 2.1216164}
+      m_BoxSize: {x: 12.114548, y: 3.6294432, z: 2.1216164}
       m_BoxBlendDistancePositive: {x: 0.4038887, y: 0.4038887, z: 0.4038887}
       m_BoxBlendDistanceNegative: {x: 0.4038887, y: 0.4038887, z: 0.4038887}
       m_BoxBlendNormalDistancePositive: {x: 0, y: 0, z: 0}
@@ -6175,7 +6175,7 @@ ReflectionProbe:
   m_TimeSlicingMode: 0
   m_Resolution: 128
   m_UpdateFrequency: 0
-  m_BoxSize: {x: 12.881403, y: 3.6294432, z: 2.1216164}
+  m_BoxSize: {x: 12.114548, y: 3.6294432, z: 2.1216164}
   m_BoxOffset: {x: 0, y: 0, z: 0}
   m_NearClip: 0.3
   m_FarClip: 1000
@@ -6201,7 +6201,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1518943758}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.3547735, y: 1.3172903, z: -0.41145542}
+  m_LocalPosition: {x: 1.7382014, y: 1.3172903, z: -0.4114554}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
