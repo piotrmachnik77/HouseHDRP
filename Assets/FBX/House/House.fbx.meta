@@ -120,6 +120,33 @@ ModelImporter:
   - first:
       74: 5788833379073745667
     second: mirabel_98_pewter.002|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 1197266154981463032
+    second: mirabel_98_pewter.004|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: -605728994225015737
+    second: mirabel_98_pewter.004|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 5387975791522100811
+    second: mirabel_98_pewter.004|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 1053935786593465121
+    second: mirabel_98_pewter.006|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: -8718600267928986238
+    second: mirabel_98_pewter.006|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 1568158846326391199
+    second: mirabel_98_pewter.006|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 8870190147280815089
+    second: mirabel_98_pewter.005|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: -1666592590501145973
+    second: mirabel_98_pewter.005|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 7622318261146228799
+    second: mirabel_98_pewter.005|mirabel_98_pewter|Take 001|BaseLayer.004
   externalObjects:
   - first:
       type: UnityEngine:Material
