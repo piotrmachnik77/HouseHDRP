@@ -196,7 +196,7 @@ Material:
     - _DetailAlbedoScale: 0.34
     - _DetailNormalMapScale: 1
     - _DetailNormalScale: 0
-    - _DetailSmoothnessScale: 0
+    - _DetailSmoothnessScale: 0.242
     - _DiffusionProfile: 0
     - _DiffusionProfileHash: 0
     - _DisplacementLockObjectScale: 1

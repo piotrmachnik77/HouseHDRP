@@ -145,7 +145,7 @@ Material:
     - _DepthOffsetEnable: 0
     - _DetailAlbedoScale: 1
     - _DetailNormalScale: 0
-    - _DetailSmoothnessScale: 0
+    - _DetailSmoothnessScale: 0.997
     - _DiffusionProfile: 0
     - _DiffusionProfileHash: 0
     - _DisplacementLockObjectScale: 1
