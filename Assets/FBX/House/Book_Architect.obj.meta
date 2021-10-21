@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 217bab0efd1f3604ba1e69db02ddede4
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_Adolf_LoosMat
+    second: {fileID: 2100000, guid: 634964c0240550f4b94d96a4532e81ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_Albert_FreyMat
+    second: {fileID: 2100000, guid: c972f35d979914d40a97ea789ccf04bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_AltoMat
+    second: {fileID: 2100000, guid: 890dd26cc0e4ec24b82b0580dacf52ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_AndoMat
+    second: {fileID: 2100000, guid: 47ab2bfbfd66e234c969e66eb384af67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_BauhausMat
+    second: {fileID: 2100000, guid: e69273dba247aa54ca895aa85356304e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_BreuerMat
+    second: {fileID: 2100000, guid: fab9ffc20fe8e23409368ba740dcbc69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_CalatravaMat
+    second: {fileID: 2100000, guid: b3a909c2b5287d2408cdbac209f3c2b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_ChipperfieldMat
+    second: {fileID: 2100000, guid: 86b8f0f7071336044b88077d380123cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_EamesMat
+    second: {fileID: 2100000, guid: d0c288901d8a230408da2d3e2f832043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_GaudiMat
+    second: {fileID: 2100000, guid: 74f6f97248a93ea43aa57873d3d5935f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_GropuisMat
+    second: {fileID: 2100000, guid: 783a8ad6085c39645ba102db5690bd08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_HoffmannMat
+    second: {fileID: 2100000, guid: 705cf47b8fde8004490430cafdd29bac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_KahnMat
+    second: {fileID: 2100000, guid: cd75df6e16a217a4aa77942f389c92bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_LautnerMat
+    second: {fileID: 2100000, guid: 863c63e41c985aa468d5ec1ba5eee2e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_LeCorbusierMat
+    second: {fileID: 2100000, guid: 1813a86c5aa593e4a845b1279d91063f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_MackintoshMat
+    second: {fileID: 2100000, guid: 08fc5be2c47c46249bf955c8474725f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_MeierMat
+    second: {fileID: 2100000, guid: 85bf0f3da8040ff43b0edfad9157acbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_MiesVanDerRoheMat
+    second: {fileID: 2100000, guid: 1d6006232c636c1469a575ac4ccc6d78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_NeutraMat
+    second: {fileID: 2100000, guid: 768f48847cbc4f743ac8203f4758406f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_NiemeyerMat
+    second: {fileID: 2100000, guid: ef2f49b8048259344b0621654913a2c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_PalladioMat
+    second: {fileID: 2100000, guid: c38ab4de1827f154199dc3d3324dfe7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_PianoMat
+    second: {fileID: 2100000, guid: 13c33eccaa8248b4e96b4ddb7579bff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_ProuveMat
+    second: {fileID: 2100000, guid: aa9344794b4f537409f6fed40511f35f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_SchinkelMat
+    second: {fileID: 2100000, guid: 7421189c729bdc54f9169332f5c5477c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_ShigeruBanMat
+    second: {fileID: 2100000, guid: 2b2626143accc4e40b092756788e6b20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_WrightMat
+    second: {fileID: 2100000, guid: 77fe5966f64bf774a9da770b4e186e53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Architect_ZahaHadidMat
+    second: {fileID: 2100000, guid: 48ab306b4fa41434e8c171fb8ac5ab40, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
