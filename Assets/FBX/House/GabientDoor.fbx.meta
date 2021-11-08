@@ -1,0 +1,1564 @@
+fileFormatVersion: 2
+guid: 29ff015dd9038ff40baeaf458bbf47ec
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 7587747878643411364
+    second: group1_pCube1|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: -462112566045087724
+    second: group1_pCube1|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: 9073834569743956169
+    second: group1_pCube1|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: -6031773811416094485
+    second: group1_pCube1|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 7955764007847962550
+    second: group1_pCube1|pCube11|Take 001|BaseLayer
+  - first:
+      74: -3812882389849764079
+    second: group1_pCube1|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: 4138399500351107309
+    second: group1_pCube1|pCube12|Take 001|BaseLayer
+  - first:
+      74: 1158770510557656854
+    second: group1_pCube1|pCube13|Take 001|BaseLayer
+  - first:
+      74: 7895416616949705876
+    second: group1_pCube1|pCube14|Take 001|BaseLayer
+  - first:
+      74: -4850266728836091809
+    second: group1_pCube1|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: 3118923412982889035
+    second: group1_pCube1|pCube15|Take 001|BaseLayer
+  - first:
+      74: -6610764393520884729
+    second: group1_pCube1|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: -1644367223456465270
+    second: group1_pCube1|pCube16|Take 001|BaseLayer
+  - first:
+      74: -1403649889584600146
+    second: group1_pCube1|pCube17|Take 001|BaseLayer
+  - first:
+      74: -7888828995251029211
+    second: group1_pCube1|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: -7414039554213209533
+    second: group1_pCube1|pCube18|Take 001|BaseLayer
+  - first:
+      74: -6774332735658399925
+    second: group1_pCube1|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: 2939564871830111181
+    second: group1_pCube1|pCube19|Take 001|BaseLayer
+  - first:
+      74: -4622782152509544273
+    second: group1_pCube1|pCube1|Take 001|BaseLayer
+  - first:
+      74: 4067115151210728323
+    second: group1_pCube1|pCube1|Take 001|BaseLayer.001
+  - first:
+      74: -4036596294962851105
+    second: group1_pCube1|pCube1|Take 001|BaseLayer.002
+  - first:
+      74: -3862668487168461352
+    second: group1_pCube1|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: -7200233528874956357
+    second: group1_pCube1|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: -608042970835396819
+    second: group1_pCube1|pCube20|Take 001|BaseLayer
+  - first:
+      74: -3695624790721686313
+    second: group1_pCube1|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: 1104736528660264120
+    second: group1_pCube1|pCube21|Take 001|BaseLayer
+  - first:
+      74: -4126389106001908696
+    second: group1_pCube1|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: 8938276910772650459
+    second: group1_pCube1|pCube22|Take 001|BaseLayer
+  - first:
+      74: -5366240901317225370
+    second: group1_pCube1|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: 2719673113221365707
+    second: group1_pCube1|pCube23|Take 001|BaseLayer
+  - first:
+      74: 6491975499175674294
+    second: group1_pCube1|pCube29|Take 001|BaseLayer
+  - first:
+      74: -6468957463078758619
+    second: group1_pCube1|pCube2|Take 001|BaseLayer
+  - first:
+      74: -670487453597398882
+    second: group1_pCube1|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: 427572550819182398
+    second: group1_pCube1|pCube3.001|Take 001|BaseLayer.001
+  - first:
+      74: -5039483687138506445
+    second: group1_pCube1|pCube3.001|Take 001|BaseLayer.002
+  - first:
+      74: 8156919113905109068
+    second: group1_pCube1|pCube30|Take 001|BaseLayer
+  - first:
+      74: 3024721451624720460
+    second: group1_pCube1|pCube3|Take 001|BaseLayer
+  - first:
+      74: -110217299406607135
+    second: group1_pCube1|pCube3|Take 001|BaseLayer.001
+  - first:
+      74: 2031074325880796245
+    second: group1_pCube1|pCube3|Take 001|BaseLayer.002
+  - first:
+      74: 5349804860040373594
+    second: group1_pCube1|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: 7851525220401239361
+    second: group1_pCube1|pCube4|Take 001|BaseLayer
+  - first:
+      74: -1187825093498388865
+    second: group1_pCube1|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: 8646160218831497812
+    second: group1_pCube1|pCube9|Take 001|BaseLayer
+  - first:
+      74: -6615611688582423769
+    second: group1_pCube1|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: -6097355784731072676
+    second: pCube18|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 4055422812714189703
+    second: pCube18|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: 6893798991118145130
+    second: pCube18|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: -1245385991091110582
+    second: pCube18|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: -7644253732240415497
+    second: pCube18|pCube11|Take 001|BaseLayer
+  - first:
+      74: -2852009382491056789
+    second: pCube18|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: 4222319780110539730
+    second: pCube18|pCube12|Take 001|BaseLayer
+  - first:
+      74: -8834695184659070794
+    second: pCube18|pCube13|Take 001|BaseLayer
+  - first:
+      74: -7616336875377579748
+    second: pCube18|pCube14|Take 001|BaseLayer
+  - first:
+      74: 2619416245786404733
+    second: pCube18|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: -369042250801313111
+    second: pCube18|pCube15|Take 001|BaseLayer
+  - first:
+      74: -4416601490244885223
+    second: pCube18|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: 1901975072201149221
+    second: pCube18|pCube16|Take 001|BaseLayer
+  - first:
+      74: -1486954388378899254
+    second: pCube18|pCube17|Take 001|BaseLayer
+  - first:
+      74: -4189151746977436583
+    second: pCube18|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: -2798380319894880511
+    second: pCube18|pCube18|Take 001|BaseLayer
+  - first:
+      74: -2745399712052793886
+    second: pCube18|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: -1266817216850781304
+    second: pCube18|pCube19|Take 001|BaseLayer
+  - first:
+      74: 958774313859044384
+    second: pCube18|pCube1|Take 001|BaseLayer
+  - first:
+      74: -6378573790045761118
+    second: pCube18|pCube1|Take 001|BaseLayer.001
+  - first:
+      74: 4472479698253378076
+    second: pCube18|pCube1|Take 001|BaseLayer.002
+  - first:
+      74: 1233520960558567122
+    second: pCube18|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: 8348196977303209145
+    second: pCube18|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: -3723520031404024412
+    second: pCube18|pCube20|Take 001|BaseLayer
+  - first:
+      74: -8964798529490782377
+    second: pCube18|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: -3277725546285166017
+    second: pCube18|pCube21|Take 001|BaseLayer
+  - first:
+      74: -8080163139047853702
+    second: pCube18|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: 2889496083487783700
+    second: pCube18|pCube22|Take 001|BaseLayer
+  - first:
+      74: -3779064367486077816
+    second: pCube18|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: 8597231310751110807
+    second: pCube18|pCube23|Take 001|BaseLayer
+  - first:
+      74: 4532847452828767182
+    second: pCube18|pCube29|Take 001|BaseLayer
+  - first:
+      74: 1845257644806750284
+    second: pCube18|pCube2|Take 001|BaseLayer
+  - first:
+      74: -1046569980546218944
+    second: pCube18|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: -23506016336770402
+    second: pCube18|pCube3.001|Take 001|BaseLayer.001
+  - first:
+      74: -4845706064089848572
+    second: pCube18|pCube3.001|Take 001|BaseLayer.002
+  - first:
+      74: 2134407449856645977
+    second: pCube18|pCube30|Take 001|BaseLayer
+  - first:
+      74: -5728481473638661212
+    second: pCube18|pCube3|Take 001|BaseLayer
+  - first:
+      74: 1777107202794659322
+    second: pCube18|pCube3|Take 001|BaseLayer.001
+  - first:
+      74: 6179199146852545482
+    second: pCube18|pCube3|Take 001|BaseLayer.002
+  - first:
+      74: -2703986794769680526
+    second: pCube18|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: -5211288777711617044
+    second: pCube18|pCube4|Take 001|BaseLayer
+  - first:
+      74: 8333327789616474187
+    second: pCube18|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: -5618388299398840181
+    second: pCube18|pCube9|Take 001|BaseLayer
+  - first:
+      74: 2605523392209960006
+    second: pCube18|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: 3711306822270212348
+    second: pCube16|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 7421532139609924295
+    second: pCube16|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: -4037730142883624470
+    second: pCube16|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: -168720649830111390
+    second: pCube16|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: -6165618053755532124
+    second: pCube16|pCube11|Take 001|BaseLayer
+  - first:
+      74: -1873812824058829906
+    second: pCube16|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: 953677776971598398
+    second: pCube16|pCube12|Take 001|BaseLayer
+  - first:
+      74: -1017775287753032981
+    second: pCube16|pCube13|Take 001|BaseLayer
+  - first:
+      74: 2666184422040731996
+    second: pCube16|pCube14|Take 001|BaseLayer
+  - first:
+      74: 4689670288615054395
+    second: pCube16|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: 8463651001089408932
+    second: pCube16|pCube15|Take 001|BaseLayer
+  - first:
+      74: 6046798593502335957
+    second: pCube16|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: -7220814762551423779
+    second: pCube16|pCube16|Take 001|BaseLayer
+  - first:
+      74: 3781899204648331853
+    second: pCube16|pCube17|Take 001|BaseLayer
+  - first:
+      74: -3510583577682300757
+    second: pCube16|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: 1075520807045046958
+    second: pCube16|pCube18|Take 001|BaseLayer
+  - first:
+      74: -3651771325981386877
+    second: pCube16|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: 4244286725510595013
+    second: pCube16|pCube19|Take 001|BaseLayer
+  - first:
+      74: -193223353883733104
+    second: pCube16|pCube1|Take 001|BaseLayer
+  - first:
+      74: 8577086633670748129
+    second: pCube16|pCube1|Take 001|BaseLayer.001
+  - first:
+      74: 8098068745969291185
+    second: pCube16|pCube1|Take 001|BaseLayer.002
+  - first:
+      74: 8863343236611742717
+    second: pCube16|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: 5798335423867830320
+    second: pCube16|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: 8162777618354901989
+    second: pCube16|pCube20|Take 001|BaseLayer
+  - first:
+      74: 5858385819440334953
+    second: pCube16|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: -4442632144166641802
+    second: pCube16|pCube21|Take 001|BaseLayer
+  - first:
+      74: 6674912073104543548
+    second: pCube16|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: 7247356103399776486
+    second: pCube16|pCube22|Take 001|BaseLayer
+  - first:
+      74: 4430951512343104254
+    second: pCube16|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: -9026570452301932010
+    second: pCube16|pCube23|Take 001|BaseLayer
+  - first:
+      74: 5435947290586480928
+    second: pCube16|pCube29|Take 001|BaseLayer
+  - first:
+      74: -3917073663851016737
+    second: pCube16|pCube2|Take 001|BaseLayer
+  - first:
+      74: 6568102164278228705
+    second: pCube16|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: -7260888455730782910
+    second: pCube16|pCube3.001|Take 001|BaseLayer.001
+  - first:
+      74: 6044830790345837568
+    second: pCube16|pCube3.001|Take 001|BaseLayer.002
+  - first:
+      74: 37174054944139355
+    second: pCube16|pCube30|Take 001|BaseLayer
+  - first:
+      74: -2218607093792332729
+    second: pCube16|pCube3|Take 001|BaseLayer
+  - first:
+      74: -7533827888828910508
+    second: pCube16|pCube3|Take 001|BaseLayer.001
+  - first:
+      74: -403223344277143287
+    second: pCube16|pCube3|Take 001|BaseLayer.002
+  - first:
+      74: 8248534185367634312
+    second: pCube16|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: -2989474811118867831
+    second: pCube16|pCube4|Take 001|BaseLayer
+  - first:
+      74: -4815449314815934952
+    second: pCube16|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: -7473935924338903388
+    second: pCube16|pCube9|Take 001|BaseLayer
+  - first:
+      74: -7486132542264470187
+    second: pCube16|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: 1483836879323987022
+    second: pCube15|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 2057976793160124722
+    second: pCube15|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: 5330752949055888581
+    second: pCube15|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: -8169795437143961954
+    second: pCube15|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 6491887355929501793
+    second: pCube15|pCube11|Take 001|BaseLayer
+  - first:
+      74: 7411208651475306275
+    second: pCube15|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: -5012558664101845964
+    second: pCube15|pCube12|Take 001|BaseLayer
+  - first:
+      74: 109506341157310202
+    second: pCube15|pCube13|Take 001|BaseLayer
+  - first:
+      74: -308754713625566925
+    second: pCube15|pCube14|Take 001|BaseLayer
+  - first:
+      74: -3793052723117379691
+    second: pCube15|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: 602216699385762249
+    second: pCube15|pCube15|Take 001|BaseLayer
+  - first:
+      74: 5026005153441657532
+    second: pCube15|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: 7212133913157982763
+    second: pCube15|pCube16|Take 001|BaseLayer
+  - first:
+      74: -2077838376357971428
+    second: pCube15|pCube17|Take 001|BaseLayer
+  - first:
+      74: -3102948251512198288
+    second: pCube15|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: 9061964142276518253
+    second: pCube15|pCube18|Take 001|BaseLayer
+  - first:
+      74: -8421132993905955083
+    second: pCube15|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: -2395227812349003259
+    second: pCube15|pCube19|Take 001|BaseLayer
+  - first:
+      74: 8705448773025252378
+    second: pCube15|pCube1|Take 001|BaseLayer
+  - first:
+      74: -8161792239800056548
+    second: pCube15|pCube1|Take 001|BaseLayer.001
+  - first:
+      74: 8416708329731188319
+    second: pCube15|pCube1|Take 001|BaseLayer.002
+  - first:
+      74: -1082580897717167611
+    second: pCube15|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: -2547703777797014101
+    second: pCube15|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: -1204713567419850382
+    second: pCube15|pCube20|Take 001|BaseLayer
+  - first:
+      74: 6449586042477579426
+    second: pCube15|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: 2950549805639096451
+    second: pCube15|pCube21|Take 001|BaseLayer
+  - first:
+      74: -986016423015450038
+    second: pCube15|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: -6551618947067719081
+    second: pCube15|pCube22|Take 001|BaseLayer
+  - first:
+      74: 1001406647674628781
+    second: pCube15|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: -3268615342594208013
+    second: pCube15|pCube23|Take 001|BaseLayer
+  - first:
+      74: 2942342836798070853
+    second: pCube15|pCube29|Take 001|BaseLayer
+  - first:
+      74: -5101041184355322316
+    second: pCube15|pCube2|Take 001|BaseLayer
+  - first:
+      74: 143830446195788196
+    second: pCube15|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: -3957655959635661991
+    second: pCube15|pCube3.001|Take 001|BaseLayer.001
+  - first:
+      74: -7118635560226693327
+    second: pCube15|pCube3.001|Take 001|BaseLayer.002
+  - first:
+      74: -7481567324062318630
+    second: pCube15|pCube30|Take 001|BaseLayer
+  - first:
+      74: 1617245759255065013
+    second: pCube15|pCube3|Take 001|BaseLayer
+  - first:
+      74: -5027315046332301374
+    second: pCube15|pCube3|Take 001|BaseLayer.001
+  - first:
+      74: -2156396452444452522
+    second: pCube15|pCube3|Take 001|BaseLayer.002
+  - first:
+      74: 1805598244034555571
+    second: pCube15|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: 3842658026380933235
+    second: pCube15|pCube4|Take 001|BaseLayer
+  - first:
+      74: -124430425165632954
+    second: pCube15|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: -5561612397757494154
+    second: pCube15|pCube9|Take 001|BaseLayer
+  - first:
+      74: -2970700427617735510
+    second: pCube15|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: -5211875325188999176
+    second: pCube3|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 7596199911860542497
+    second: pCube3|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: 6374843532773564057
+    second: pCube3|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: -5082011373416577346
+    second: pCube3|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 2536997473536925598
+    second: pCube3|pCube11|Take 001|BaseLayer
+  - first:
+      74: -117893138898677003
+    second: pCube3|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: -5644924803478222255
+    second: pCube3|pCube12|Take 001|BaseLayer
+  - first:
+      74: -5778059902285518636
+    second: pCube3|pCube13|Take 001|BaseLayer
+  - first:
+      74: 8608034204626752608
+    second: pCube3|pCube14|Take 001|BaseLayer
+  - first:
+      74: 6518220157079206363
+    second: pCube3|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: 6876950555478181046
+    second: pCube3|pCube15|Take 001|BaseLayer
+  - first:
+      74: 4909653210997702918
+    second: pCube3|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: 8964990425078628545
+    second: pCube3|pCube16|Take 001|BaseLayer
+  - first:
+      74: -1076812658067140754
+    second: pCube3|pCube17|Take 001|BaseLayer
+  - first:
+      74: 1934216384722353982
+    second: pCube3|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: -1537470575721804587
+    second: pCube3|pCube18|Take 001|BaseLayer
+  - first:
+      74: -1651030575158584006
+    second: pCube3|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: 1362232675098835661
+    second: pCube3|pCube19|Take 001|BaseLayer
+  - first:
+      74: -2734339735909676565
+    second: pCube3|pCube1|Take 001|BaseLayer
+  - first:
+      74: -5818581565926180977
+    second: pCube3|pCube1|Take 001|BaseLayer.001
+  - first:
+      74: -1573411407194345583
+    second: pCube3|pCube1|Take 001|BaseLayer.002
+  - first:
+      74: 4533709120693279410
+    second: pCube3|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: 7263277232506553414
+    second: pCube3|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: -495664172428754439
+    second: pCube3|pCube20|Take 001|BaseLayer
+  - first:
+      74: -453417697893671518
+    second: pCube3|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: 8754005546712410923
+    second: pCube3|pCube21|Take 001|BaseLayer
+  - first:
+      74: 3709269119735039207
+    second: pCube3|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: 3839697678074791593
+    second: pCube3|pCube22|Take 001|BaseLayer
+  - first:
+      74: -4127843135874476859
+    second: pCube3|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: 3516393877151560717
+    second: pCube3|pCube23|Take 001|BaseLayer
+  - first:
+      74: 7583991013842600938
+    second: pCube3|pCube29|Take 001|BaseLayer
+  - first:
+      74: 1821292546900518472
+    second: pCube3|pCube2|Take 001|BaseLayer
+  - first:
+      74: 5313948048914705579
+    second: pCube3|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: -5834029692538218434
+    second: pCube3|pCube3.001|Take 001|BaseLayer.001
+  - first:
+      74: -7295097582696468398
+    second: pCube3|pCube3.001|Take 001|BaseLayer.002
+  - first:
+      74: -8184436004668707011
+    second: pCube3|pCube30|Take 001|BaseLayer
+  - first:
+      74: -4166050802180694500
+    second: pCube3|pCube3|Take 001|BaseLayer
+  - first:
+      74: -1594457622838598547
+    second: pCube3|pCube3|Take 001|BaseLayer.001
+  - first:
+      74: 3705439523067762534
+    second: pCube3|pCube3|Take 001|BaseLayer.002
+  - first:
+      74: 2621985377383818694
+    second: pCube3|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: -7449423484800490234
+    second: pCube3|pCube4|Take 001|BaseLayer
+  - first:
+      74: -67939424008472670
+    second: pCube3|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: 5113194880942154772
+    second: pCube3|pCube9|Take 001|BaseLayer
+  - first:
+      74: -808452068461543614
+    second: pCube3|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: -4118639216731083098
+    second: pCube20.001|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 5140553847569660600
+    second: pCube20.001|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: 5754401242286775303
+    second: pCube20.001|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 2630761906576461318
+    second: pCube20.001|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: -8488028250454688387
+    second: pCube20.001|pCube11|Take 001|BaseLayer
+  - first:
+      74: 4702491735739388294
+    second: pCube20.001|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: -9040220839460941260
+    second: pCube20.001|pCube12|Take 001|BaseLayer
+  - first:
+      74: 6496581535826060607
+    second: pCube20.001|pCube13|Take 001|BaseLayer
+  - first:
+      74: -6781785892178364656
+    second: pCube20.001|pCube14|Take 001|BaseLayer
+  - first:
+      74: -2587460964669952867
+    second: pCube20.001|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: -4104737502593890713
+    second: pCube20.001|pCube15|Take 001|BaseLayer
+  - first:
+      74: -6523541583071591119
+    second: pCube20.001|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: 3239745196598026161
+    second: pCube20.001|pCube16|Take 001|BaseLayer
+  - first:
+      74: 3299540283682951618
+    second: pCube20.001|pCube17|Take 001|BaseLayer
+  - first:
+      74: -224715347215349970
+    second: pCube20.001|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: 4646565523704563735
+    second: pCube20.001|pCube18|Take 001|BaseLayer
+  - first:
+      74: 8631542947651568295
+    second: pCube20.001|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: -2098589264616828882
+    second: pCube20.001|pCube19|Take 001|BaseLayer
+  - first:
+      74: -316083307945620278
+    second: pCube20.001|pCube1|Take 001|BaseLayer
+  - first:
+      74: -3223142836255053464
+    second: pCube20.001|pCube1|Take 001|BaseLayer.001
+  - first:
+      74: 309473294466320593
+    second: pCube20.001|pCube1|Take 001|BaseLayer.002
+  - first:
+      74: 7174458477047480733
+    second: pCube20.001|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: -8910981316412918857
+    second: pCube20.001|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: 3241191544509944009
+    second: pCube20.001|pCube20|Take 001|BaseLayer
+  - first:
+      74: -3615741524626322880
+    second: pCube20.001|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: -4750745011161476571
+    second: pCube20.001|pCube21|Take 001|BaseLayer
+  - first:
+      74: 7692994814619066019
+    second: pCube20.001|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: -6086329459542208539
+    second: pCube20.001|pCube22|Take 001|BaseLayer
+  - first:
+      74: 7880222485045297773
+    second: pCube20.001|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: -6780394411443137357
+    second: pCube20.001|pCube23|Take 001|BaseLayer
+  - first:
+      74: -5526157112902654696
+    second: pCube20.001|pCube29|Take 001|BaseLayer
+  - first:
+      74: 3509555491523462787
+    second: pCube20.001|pCube2|Take 001|BaseLayer
+  - first:
+      74: 1308363328558418860
+    second: pCube20.001|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: -6599668352524518548
+    second: pCube20.001|pCube3.001|Take 001|BaseLayer.001
+  - first:
+      74: -4752836997984830677
+    second: pCube20.001|pCube3.001|Take 001|BaseLayer.002
+  - first:
+      74: -5296767295733349083
+    second: pCube20.001|pCube30|Take 001|BaseLayer
+  - first:
+      74: 2683151353639709814
+    second: pCube20.001|pCube3|Take 001|BaseLayer
+  - first:
+      74: -5155109734042283669
+    second: pCube20.001|pCube3|Take 001|BaseLayer.001
+  - first:
+      74: -8973680359137472673
+    second: pCube20.001|pCube3|Take 001|BaseLayer.002
+  - first:
+      74: -9210110189802433139
+    second: pCube20.001|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: 7650151538638709164
+    second: pCube20.001|pCube4|Take 001|BaseLayer
+  - first:
+      74: -4630878663139260789
+    second: pCube20.001|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: -8010135286167091783
+    second: pCube20.001|pCube9|Take 001|BaseLayer
+  - first:
+      74: -3030686201678974412
+    second: pCube20.001|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: -4009168329261184682
+    second: pCube18.001|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: -802960289686018294
+    second: pCube18.001|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: 3584103709114916721
+    second: pCube18.001|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 836834231634975175
+    second: pCube18.001|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: -4790439234964845151
+    second: pCube18.001|pCube11|Take 001|BaseLayer
+  - first:
+      74: 4837345385912445062
+    second: pCube18.001|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: -8789865159810542237
+    second: pCube18.001|pCube12|Take 001|BaseLayer
+  - first:
+      74: -2040995000999790375
+    second: pCube18.001|pCube13|Take 001|BaseLayer
+  - first:
+      74: -7432018194285280816
+    second: pCube18.001|pCube14|Take 001|BaseLayer
+  - first:
+      74: -6403080736641244303
+    second: pCube18.001|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: 6175209135040530061
+    second: pCube18.001|pCube15|Take 001|BaseLayer
+  - first:
+      74: 793919502812839436
+    second: pCube18.001|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: -7991087042689105279
+    second: pCube18.001|pCube16|Take 001|BaseLayer
+  - first:
+      74: -3253703315013453515
+    second: pCube18.001|pCube17|Take 001|BaseLayer
+  - first:
+      74: 774791396928469929
+    second: pCube18.001|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: -111699830212699629
+    second: pCube18.001|pCube18|Take 001|BaseLayer
+  - first:
+      74: -8293667201185481945
+    second: pCube18.001|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: 7899419959575272294
+    second: pCube18.001|pCube19|Take 001|BaseLayer
+  - first:
+      74: -3650562016212906473
+    second: pCube18.001|pCube1|Take 001|BaseLayer
+  - first:
+      74: -3563171556901098478
+    second: pCube18.001|pCube1|Take 001|BaseLayer.001
+  - first:
+      74: -4369564053268771292
+    second: pCube18.001|pCube1|Take 001|BaseLayer.002
+  - first:
+      74: -9067162646784190767
+    second: pCube18.001|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: 1462466252906855453
+    second: pCube18.001|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: 8342345814024381955
+    second: pCube18.001|pCube20|Take 001|BaseLayer
+  - first:
+      74: -4288007333817626676
+    second: pCube18.001|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: -5294222407689898370
+    second: pCube18.001|pCube21|Take 001|BaseLayer
+  - first:
+      74: 4789147820829709855
+    second: pCube18.001|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: 2199612938412517957
+    second: pCube18.001|pCube22|Take 001|BaseLayer
+  - first:
+      74: 1731854555957362008
+    second: pCube18.001|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: -3244039098609920762
+    second: pCube18.001|pCube23|Take 001|BaseLayer
+  - first:
+      74: -4853566556375776273
+    second: pCube18.001|pCube29|Take 001|BaseLayer
+  - first:
+      74: 6397742356132965105
+    second: pCube18.001|pCube2|Take 001|BaseLayer
+  - first:
+      74: -5953426550554766890
+    second: pCube18.001|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: -2708816722896618138
+    second: pCube18.001|pCube3.001|Take 001|BaseLayer.001
+  - first:
+      74: -8052164880835028635
+    second: pCube18.001|pCube3.001|Take 001|BaseLayer.002
+  - first:
+      74: 6037268257256578256
+    second: pCube18.001|pCube30|Take 001|BaseLayer
+  - first:
+      74: 4540919516465659999
+    second: pCube18.001|pCube3|Take 001|BaseLayer
+  - first:
+      74: 8321203955820079200
+    second: pCube18.001|pCube3|Take 001|BaseLayer.001
+  - first:
+      74: -1063739312233823623
+    second: pCube18.001|pCube3|Take 001|BaseLayer.002
+  - first:
+      74: -4036759037272942885
+    second: pCube18.001|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: 6705939155063352928
+    second: pCube18.001|pCube4|Take 001|BaseLayer
+  - first:
+      74: -434319457893131531
+    second: pCube18.001|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: 6203732809722213986
+    second: pCube18.001|pCube9|Take 001|BaseLayer
+  - first:
+      74: -8953942239146676092
+    second: pCube18.001|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: 8064561589388277385
+    second: pCube17|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: -7446113156098749993
+    second: pCube17|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: 2551550659287377428
+    second: pCube17|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: -3933438995523020523
+    second: pCube17|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 4587359369670436771
+    second: pCube17|pCube11|Take 001|BaseLayer
+  - first:
+      74: -5185475208035414667
+    second: pCube17|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: 1092817833881361564
+    second: pCube17|pCube12|Take 001|BaseLayer
+  - first:
+      74: -2826257972912287305
+    second: pCube17|pCube13|Take 001|BaseLayer
+  - first:
+      74: 2662510616251168303
+    second: pCube17|pCube14|Take 001|BaseLayer
+  - first:
+      74: 7118197433332032737
+    second: pCube17|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: 6027967652060024924
+    second: pCube17|pCube15|Take 001|BaseLayer
+  - first:
+      74: 1314262047841067104
+    second: pCube17|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: 5026907910703285406
+    second: pCube17|pCube16|Take 001|BaseLayer
+  - first:
+      74: -3211627344166169470
+    second: pCube17|pCube17|Take 001|BaseLayer
+  - first:
+      74: 8370882675072995902
+    second: pCube17|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: 2401406444628230191
+    second: pCube17|pCube18|Take 001|BaseLayer
+  - first:
+      74: -3709225416006164281
+    second: pCube17|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: -1834262760118486626
+    second: pCube17|pCube19|Take 001|BaseLayer
+  - first:
+      74: -4263351807974899473
+    second: pCube17|pCube1|Take 001|BaseLayer
+  - first:
+      74: -4437438532627397074
+    second: pCube17|pCube1|Take 001|BaseLayer.001
+  - first:
+      74: 8011129321007314963
+    second: pCube17|pCube1|Take 001|BaseLayer.002
+  - first:
+      74: -7597636545837219124
+    second: pCube17|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: -3326083990586626506
+    second: pCube17|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: 7927180405467902328
+    second: pCube17|pCube20|Take 001|BaseLayer
+  - first:
+      74: -8066260461796431607
+    second: pCube17|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: -6678203066451386417
+    second: pCube17|pCube21|Take 001|BaseLayer
+  - first:
+      74: -2107504967850355630
+    second: pCube17|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: 4720529838140472432
+    second: pCube17|pCube22|Take 001|BaseLayer
+  - first:
+      74: 4061942393800856556
+    second: pCube17|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: 6760893410067035635
+    second: pCube17|pCube23|Take 001|BaseLayer
+  - first:
+      74: 2969291920637337067
+    second: pCube17|pCube29|Take 001|BaseLayer
+  - first:
+      74: -7395729457734226891
+    second: pCube17|pCube2|Take 001|BaseLayer
+  - first:
+      74: -5601555128969893952
+    second: pCube17|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: 8838122834978104269
+    second: pCube17|pCube3.001|Take 001|BaseLayer.001
+  - first:
+      74: 8788271463691256382
+    second: pCube17|pCube3.001|Take 001|BaseLayer.002
+  - first:
+      74: 5510951949094098179
+    second: pCube17|pCube30|Take 001|BaseLayer
+  - first:
+      74: -4160199452926194927
+    second: pCube17|pCube3|Take 001|BaseLayer
+  - first:
+      74: -1074780297663747056
+    second: pCube17|pCube3|Take 001|BaseLayer.001
+  - first:
+      74: 6884469330959211932
+    second: pCube17|pCube3|Take 001|BaseLayer.002
+  - first:
+      74: -1149022786635633711
+    second: pCube17|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: -1561498807385520057
+    second: pCube17|pCube4|Take 001|BaseLayer
+  - first:
+      74: 2902799279230494609
+    second: pCube17|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: -8543213517508792837
+    second: pCube17|pCube9|Take 001|BaseLayer
+  - first:
+      74: -8161257671920041166
+    second: pCube17|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: 4240437345653954263
+    second: pCube16.001|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 7545700111415315035
+    second: pCube16.001|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: 2726546181193257922
+    second: pCube16.001|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: -6426477280599086827
+    second: pCube16.001|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 4438037328975931885
+    second: pCube16.001|pCube11|Take 001|BaseLayer
+  - first:
+      74: -3933395066664222736
+    second: pCube16.001|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: -31197795803489148
+    second: pCube16.001|pCube12|Take 001|BaseLayer
+  - first:
+      74: 6060618137803227080
+    second: pCube16.001|pCube13|Take 001|BaseLayer
+  - first:
+      74: 6038721300793399561
+    second: pCube16.001|pCube14|Take 001|BaseLayer
+  - first:
+      74: -6875795692390046412
+    second: pCube16.001|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: 7866431494055949977
+    second: pCube16.001|pCube15|Take 001|BaseLayer
+  - first:
+      74: 5089014996375145786
+    second: pCube16.001|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: 8868075208204019089
+    second: pCube16.001|pCube16|Take 001|BaseLayer
+  - first:
+      74: -6091246453948411167
+    second: pCube16.001|pCube17|Take 001|BaseLayer
+  - first:
+      74: -8377456606236931855
+    second: pCube16.001|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: 1627211584738411793
+    second: pCube16.001|pCube18|Take 001|BaseLayer
+  - first:
+      74: -1992571165878912933
+    second: pCube16.001|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: -1068621277920792339
+    second: pCube16.001|pCube19|Take 001|BaseLayer
+  - first:
+      74: 8449157267815649962
+    second: pCube16.001|pCube1|Take 001|BaseLayer
+  - first:
+      74: -4618053737820659529
+    second: pCube16.001|pCube1|Take 001|BaseLayer.001
+  - first:
+      74: 5640226738987928946
+    second: pCube16.001|pCube1|Take 001|BaseLayer.002
+  - first:
+      74: -1084798701313208340
+    second: pCube16.001|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: -927773160534599963
+    second: pCube16.001|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: -7772246266188375709
+    second: pCube16.001|pCube20|Take 001|BaseLayer
+  - first:
+      74: -7119493386848200295
+    second: pCube16.001|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: 7354728107603134690
+    second: pCube16.001|pCube21|Take 001|BaseLayer
+  - first:
+      74: -8565641222977884401
+    second: pCube16.001|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: -1459514893385000521
+    second: pCube16.001|pCube22|Take 001|BaseLayer
+  - first:
+      74: -2788440812606236149
+    second: pCube16.001|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: 5520874582443598154
+    second: pCube16.001|pCube23|Take 001|BaseLayer
+  - first:
+      74: 5419551411633669540
+    second: pCube16.001|pCube29|Take 001|BaseLayer
+  - first:
+      74: -1333703461234636832
+    second: pCube16.001|pCube2|Take 001|BaseLayer
+  - first:
+      74: -1486713372644940986
+    second: pCube16.001|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: 6850152169296941009
+    second: pCube16.001|pCube3.001|Take 001|BaseLayer.001
+  - first:
+      74: 3103862910268117225
+    second: pCube16.001|pCube3.001|Take 001|BaseLayer.002
+  - first:
+      74: 3683568076122303406
+    second: pCube16.001|pCube30|Take 001|BaseLayer
+  - first:
+      74: 898450470429428955
+    second: pCube16.001|pCube3|Take 001|BaseLayer
+  - first:
+      74: 4809358158385239218
+    second: pCube16.001|pCube3|Take 001|BaseLayer.001
+  - first:
+      74: 5200413868470721646
+    second: pCube16.001|pCube3|Take 001|BaseLayer.002
+  - first:
+      74: 1563722436052713145
+    second: pCube16.001|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: -130468868069008002
+    second: pCube16.001|pCube4|Take 001|BaseLayer
+  - first:
+      74: -2252834314640774842
+    second: pCube16.001|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: 6358498934701109870
+    second: pCube16.001|pCube9|Take 001|BaseLayer
+  - first:
+      74: 7162878489753885209
+    second: pCube16.001|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: 5302463537516408584
+    second: pCube15.001|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: -6296485686439135250
+    second: pCube15.001|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: -7764083692904082317
+    second: pCube15.001|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 3234747661662016191
+    second: pCube15.001|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: -4984063113378851553
+    second: pCube15.001|pCube11|Take 001|BaseLayer
+  - first:
+      74: -7049727941924106274
+    second: pCube15.001|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: -5949716753682490592
+    second: pCube15.001|pCube12|Take 001|BaseLayer
+  - first:
+      74: -4154509877026722224
+    second: pCube15.001|pCube13|Take 001|BaseLayer
+  - first:
+      74: -7342090032902891530
+    second: pCube15.001|pCube14|Take 001|BaseLayer
+  - first:
+      74: -5352134498172003327
+    second: pCube15.001|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: 384943122963165241
+    second: pCube15.001|pCube15|Take 001|BaseLayer
+  - first:
+      74: -2406442902755263209
+    second: pCube15.001|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: 4836374434696525429
+    second: pCube15.001|pCube16|Take 001|BaseLayer
+  - first:
+      74: -4997962030615508888
+    second: pCube15.001|pCube17|Take 001|BaseLayer
+  - first:
+      74: 7406100560167519830
+    second: pCube15.001|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: -5410837950731161627
+    second: pCube15.001|pCube18|Take 001|BaseLayer
+  - first:
+      74: -1020109944084669329
+    second: pCube15.001|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: -6450042921848571158
+    second: pCube15.001|pCube19|Take 001|BaseLayer
+  - first:
+      74: 2970900903924597134
+    second: pCube15.001|pCube1|Take 001|BaseLayer
+  - first:
+      74: -8638749468707958403
+    second: pCube15.001|pCube1|Take 001|BaseLayer.001
+  - first:
+      74: 6025818906863593339
+    second: pCube15.001|pCube1|Take 001|BaseLayer.002
+  - first:
+      74: -2811720962677665272
+    second: pCube15.001|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: 7495027324552804325
+    second: pCube15.001|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: -5110315356941024130
+    second: pCube15.001|pCube20|Take 001|BaseLayer
+  - first:
+      74: -1198043025922034896
+    second: pCube15.001|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: -2596771228786367695
+    second: pCube15.001|pCube21|Take 001|BaseLayer
+  - first:
+      74: 6411461502926073362
+    second: pCube15.001|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: 2544120762585547817
+    second: pCube15.001|pCube22|Take 001|BaseLayer
+  - first:
+      74: 9140674398695967373
+    second: pCube15.001|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: 812958117026767276
+    second: pCube15.001|pCube23|Take 001|BaseLayer
+  - first:
+      74: -4937822053235023882
+    second: pCube15.001|pCube29|Take 001|BaseLayer
+  - first:
+      74: 2248480118043265723
+    second: pCube15.001|pCube2|Take 001|BaseLayer
+  - first:
+      74: -8937757417559772362
+    second: pCube15.001|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: -3480470077266018745
+    second: pCube15.001|pCube3.001|Take 001|BaseLayer.001
+  - first:
+      74: 62474940309629530
+    second: pCube15.001|pCube3.001|Take 001|BaseLayer.002
+  - first:
+      74: 687339854372711339
+    second: pCube15.001|pCube30|Take 001|BaseLayer
+  - first:
+      74: -6902391847451067228
+    second: pCube15.001|pCube3|Take 001|BaseLayer
+  - first:
+      74: -8245625942791466290
+    second: pCube15.001|pCube3|Take 001|BaseLayer.001
+  - first:
+      74: 7858229518616858903
+    second: pCube15.001|pCube3|Take 001|BaseLayer.002
+  - first:
+      74: 4365400186569115185
+    second: pCube15.001|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: 3722383704821946801
+    second: pCube15.001|pCube4|Take 001|BaseLayer
+  - first:
+      74: -6898366106741447427
+    second: pCube15.001|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: 6959678022453557742
+    second: pCube15.001|pCube9|Take 001|BaseLayer
+  - first:
+      74: 4296350627587390633
+    second: pCube15.001|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: 4975185736026239109
+    second: pCylinder10|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 5149975964692911753
+    second: pCylinder10|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: -5560047715958957718
+    second: pCylinder10|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 4010999422589556674
+    second: pCylinder10|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: -4517817595592949050
+    second: pCylinder10|pCube11|Take 001|BaseLayer
+  - first:
+      74: 56883749452077282
+    second: pCylinder10|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: -7625194416020885986
+    second: pCylinder10|pCube12|Take 001|BaseLayer
+  - first:
+      74: 4262222166177148635
+    second: pCylinder10|pCube13|Take 001|BaseLayer
+  - first:
+      74: 142937448911691556
+    second: pCylinder10|pCube14|Take 001|BaseLayer
+  - first:
+      74: 7977908524954250623
+    second: pCylinder10|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: -8416521208160437707
+    second: pCylinder10|pCube15|Take 001|BaseLayer
+  - first:
+      74: -6015618388725103540
+    second: pCylinder10|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: 1365180939051265885
+    second: pCylinder10|pCube16|Take 001|BaseLayer
+  - first:
+      74: -6521550305109751509
+    second: pCylinder10|pCube17|Take 001|BaseLayer
+  - first:
+      74: 2473218478595229505
+    second: pCylinder10|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: -8709135491699666697
+    second: pCylinder10|pCube18|Take 001|BaseLayer
+  - first:
+      74: 126369468967580696
+    second: pCylinder10|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: -1379858414703256949
+    second: pCylinder10|pCube19|Take 001|BaseLayer
+  - first:
+      74: -5891888716736283367
+    second: pCylinder10|pCube1|Take 001|BaseLayer
+  - first:
+      74: -3244219305342323682
+    second: pCylinder10|pCube1|Take 001|BaseLayer.001
+  - first:
+      74: -7548871229327460124
+    second: pCylinder10|pCube1|Take 001|BaseLayer.002
+  - first:
+      74: -696836636437286207
+    second: pCylinder10|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: -943885634861601005
+    second: pCylinder10|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: 6173451034205816891
+    second: pCylinder10|pCube20|Take 001|BaseLayer
+  - first:
+      74: -279333485441646764
+    second: pCylinder10|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: 2555719730321487451
+    second: pCylinder10|pCube21|Take 001|BaseLayer
+  - first:
+      74: 365471566627070894
+    second: pCylinder10|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: 1182426936346760255
+    second: pCylinder10|pCube22|Take 001|BaseLayer
+  - first:
+      74: 7728116755130571296
+    second: pCylinder10|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: -769784304448442689
+    second: pCylinder10|pCube23|Take 001|BaseLayer
+  - first:
+      74: -3168151479720261067
+    second: pCylinder10|pCube29|Take 001|BaseLayer
+  - first:
+      74: 9055642783173557663
+    second: pCylinder10|pCube2|Take 001|BaseLayer
+  - first:
+      74: -3611719680975564344
+    second: pCylinder10|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: 3163653781518782137
+    second: pCylinder10|pCube3.001|Take 001|BaseLayer.001
+  - first:
+      74: -8269513790968197244
+    second: pCylinder10|pCube3.001|Take 001|BaseLayer.002
+  - first:
+      74: 3292624975233127564
+    second: pCylinder10|pCube30|Take 001|BaseLayer
+  - first:
+      74: 5929448952868496931
+    second: pCylinder10|pCube3|Take 001|BaseLayer
+  - first:
+      74: -1591485163261947553
+    second: pCylinder10|pCube3|Take 001|BaseLayer.001
+  - first:
+      74: -5254157680052515665
+    second: pCylinder10|pCube3|Take 001|BaseLayer.002
+  - first:
+      74: 7844478470580338059
+    second: pCylinder10|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: 2441386756467991448
+    second: pCylinder10|pCube4|Take 001|BaseLayer
+  - first:
+      74: -60327216692888343
+    second: pCylinder10|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: 4072217974116466325
+    second: pCylinder10|pCube9|Take 001|BaseLayer
+  - first:
+      74: -6537832293028830202
+    second: pCylinder10|pCylinder10|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: 1beedfbefe9e69149a0d246683ab0194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2125639302
+    second: {fileID: 2100000, guid: be1febc7b97a4974bb3cd9633437304e, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
