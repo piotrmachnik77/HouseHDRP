@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 3e7685291c3a4f44fa0cf79739b0e893
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -3252119529866165617
+    second: Box024|Box023|Take 001|BaseLayer
+  - first:
+      74: 8167023606556849687
+    second: Box024|Box024|Take 001|BaseLayer
+  - first:
+      74: 1774217425435768741
+    second: Box023|Box023|Take 001|BaseLayer
+  - first:
+      74: 2821020795160473911
+    second: Box023|Box024|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray  White
+    second: {fileID: 2100000, guid: 642d9b80f31e1954a99027fe3f80be9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray 1
+    second: {fileID: 2100000, guid: 1f0422448c108264f899cfa9263fcbfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Glass glossy
+    second: {fileID: 2100000, guid: 95f1c2bb0936037408b6bddb7014b881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #103
+    second: {fileID: 2100000, guid: 1f208bd6bbe3ece44acc8363d9162eda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #104
+    second: {fileID: 2100000, guid: 2cbb3d48821c5224b8ed76145921d4cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #105
+    second: {fileID: 2100000, guid: 187a9f3a7fcc1e143b71fbddf8c85643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #106
+    second: {fileID: 2100000, guid: 15f2bb179f47fbc4f8334ddd95e1396e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #129
+    second: {fileID: 2100000, guid: 9b23a9fdfabe34049a1c00f95964e4ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #131
+    second: {fileID: 2100000, guid: 7b7ca49ec49789340a661c08243225e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #143
+    second: {fileID: 2100000, guid: 509403738a6e42248964a2e93f8dc19e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #147
+    second: {fileID: 2100000, guid: 7f15611a6927d0341b9280fd1986aa38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #148
+    second: {fileID: 2100000, guid: cec9c026b18477542879886f95ebdc50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #149
+    second: {fileID: 2100000, guid: d38d5c21889ed404ca214d8c7de38514, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #154
+    second: {fileID: 2100000, guid: 4a248ab447e73504b9b7f56058204020, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #155
+    second: {fileID: 2100000, guid: 04de0843e99a9b6489c64aebb43431e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #168
+    second: {fileID: 2100000, guid: 1b436e977bbcbda49bba8fe46c6cf58f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #169
+    second: {fileID: 2100000, guid: 92d68322ccca5914ca164994c139555c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #170
+    second: {fileID: 2100000, guid: 26bb6d954cb894741952545e044da8d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #171
+    second: {fileID: 2100000, guid: 9986b35127d1c68449d73171a807afe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #172
+    second: {fileID: 2100000, guid: 6e720c73449501d4b841343bd3f998ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #173
+    second: {fileID: 2100000, guid: 7c968028f59871a4087eecb8e52225f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #174
+    second: {fileID: 2100000, guid: d92bbfc33cfdcbd4ea9fc4d82cf1903f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #175
+    second: {fileID: 2100000, guid: c0b4460d55e417e4fa2cc5e42af2ad77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #176
+    second: {fileID: 2100000, guid: 2d12f3e4ef223b04bbd05122c5aeaaf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #212
+    second: {fileID: 2100000, guid: e5962ff4a8ea78c419b589620b9cdb9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #213
+    second: {fileID: 2100000, guid: 4150a76028667044fbbbcdb7f2e2fd7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #214
+    second: {fileID: 2100000, guid: 7375c18909995024a96d18cfaf9705ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #237
+    second: {fileID: 2100000, guid: 7a69164380131bd43ba87659e3d22e3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #238
+    second: {fileID: 2100000, guid: f4f0ce1f9409b9a4fa13223bf8c5203e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #250
+    second: {fileID: 2100000, guid: e19e8bb4e0eaf48499aebe7f95b5ffcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #251
+    second: {fileID: 2100000, guid: 0dee63f309518204cace2e2ca5ef30eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #252
+    second: {fileID: 2100000, guid: 27fe2cf741c502f41bc1038d6bca7886, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #254
+    second: {fileID: 2100000, guid: 3038a5b74d51fb442a090c43f0c16a42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #256
+    second: {fileID: 2100000, guid: ebfc3ea1ea4d871409902ce439d39318, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #257
+    second: {fileID: 2100000, guid: d6a8cf93c2326624caad87d2ef155929, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #26
+    second: {fileID: 2100000, guid: 84d039071e007d645bbad778242d7445, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #269
+    second: {fileID: 2100000, guid: 72eab2d61e0929848b5729997a234687, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #29
+    second: {fileID: 2100000, guid: d1157df06ede3af408c06426d4ad85cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #293
+    second: {fileID: 2100000, guid: 837fbc0343e84b347be107e838f655ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #294
+    second: {fileID: 2100000, guid: 258dd7d4dc1203542951b826830c8eae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #295
+    second: {fileID: 2100000, guid: 2b5fff2da859a9849ba45a114ad1f5a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #297
+    second: {fileID: 2100000, guid: aa608e2de5905fc44bb849ec342a6ad0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #298
+    second: {fileID: 2100000, guid: 9a92e09250d2fb0438e9131d9f7fb28f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #299
+    second: {fileID: 2100000, guid: 869118070b1d51c41b1b70b8198fb1bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #313
+    second: {fileID: 2100000, guid: 959745d97263f6e4b94f9ad8ebf15597, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #315
+    second: {fileID: 2100000, guid: b794ae18419c1a7439bf56e300860ed7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #316
+    second: {fileID: 2100000, guid: 0b2a6df8f1e94b349a5bb77803c7626c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #317
+    second: {fileID: 2100000, guid: 3e6286d2b6463ce41bb55069f741fe7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #318
+    second: {fileID: 2100000, guid: 01861d867896fe646870a75490f9bb55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #320
+    second: {fileID: 2100000, guid: 1bb95f2cea353374395b25e42f9134dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #322
+    second: {fileID: 2100000, guid: 4b7bb96e901c11c4aa6eace5535ae281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #323
+    second: {fileID: 2100000, guid: ebee155b7ac7ca1449a86c2309e62c24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #335
+    second: {fileID: 2100000, guid: 4e8756bddcdb2da4ba9cadf884bb4321, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #336
+    second: {fileID: 2100000, guid: c29d13150be11574f8dd77b14998b53d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #338
+    second: {fileID: 2100000, guid: 329f29d5b018364418fe124b2f92d2e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #339
+    second: {fileID: 2100000, guid: bd88c8b85440e2c40a9c9c8e3bd57103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #340
+    second: {fileID: 2100000, guid: b501626326fa1cc4abc7c1fd79b8589e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #341
+    second: {fileID: 2100000, guid: cc05ac06ec3454a4bbc21b05941a0208, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #343
+    second: {fileID: 2100000, guid: 3abf1137099d7294095e9df0c626e3c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #344
+    second: {fileID: 2100000, guid: f75759073b4cbfd4ea46767de3843538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #356
+    second: {fileID: 2100000, guid: cd5c54ef4ead6b441ab509e4d339ccc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #358
+    second: {fileID: 2100000, guid: 6642dfcefa0ea304d95de921e6ac7fd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #359
+    second: {fileID: 2100000, guid: a7c5e4a2c298fbb4bb0181eccbe9ad41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #361
+    second: {fileID: 2100000, guid: ca8ac418fc4bb19469f087251abb01f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #362
+    second: {fileID: 2100000, guid: dd02d0c06407c214d9f01e3ca04c7088, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #363
+    second: {fileID: 2100000, guid: 0233d8a11ab6c984bbbca422b6cf8f5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Material #81
+    second: {fileID: 2100000, guid: 404cd3977110c01489943fa584885f0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Steel
+    second: {fileID: 2100000, guid: 4a93162fe8e2fa344901fa239521bcb2, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

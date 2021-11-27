@@ -1839,6 +1839,1089 @@ ModelImporter:
   - first:
       74: -2295714451551810483
     second: Curtain|grd_comp_vase01|Take 001|BaseLayer
+  - first:
+      74: -4672400854680245375
+    second: Curtain.001|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: -2006184183429621929
+    second: Curtain.001|grd_comp_swing345|Take 001|BaseLayer
+  - first:
+      74: 3367631774638247614
+    second: Curtain.001|grd_comp_vase01|Take 001|BaseLayer
+  - first:
+      74: 8553549467418759855
+    second: Curtain.001|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: 5693179860555868877
+    second: Curtain.001|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 654335640122248918
+    second: Curtain.001|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 574554123638147415
+    second: Curtain.001|pCube11|Take 001|BaseLayer
+  - first:
+      74: -8710950803420249562
+    second: Curtain.001|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: 6249189254145605595
+    second: Curtain.001|pCube12|Take 001|BaseLayer
+  - first:
+      74: -699885424699763325
+    second: Curtain.001|pCube13|Take 001|BaseLayer
+  - first:
+      74: -7056532894970040545
+    second: Curtain.001|pCube14|Take 001|BaseLayer
+  - first:
+      74: -3167436621909753865
+    second: Curtain.001|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: -5928990728364080975
+    second: Curtain.001|pCube15|Take 001|BaseLayer
+  - first:
+      74: 5999842215724382998
+    second: Curtain.001|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: 3684437215084075586
+    second: Curtain.001|pCube16|Take 001|BaseLayer
+  - first:
+      74: 147991069095093901
+    second: Curtain.001|pCube17|Take 001|BaseLayer
+  - first:
+      74: -1256160425754284256
+    second: Curtain.001|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: 2041598038003290646
+    second: Curtain.001|pCube18|Take 001|BaseLayer
+  - first:
+      74: 2137930125263367505
+    second: Curtain.001|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: -8870314399159364593
+    second: Curtain.001|pCube19|Take 001|BaseLayer
+  - first:
+      74: -4187307381793366560
+    second: Curtain.001|pCube1|Take 001|BaseLayer
+  - first:
+      74: -362299540302870613
+    second: Curtain.001|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: -5475336934734033146
+    second: Curtain.001|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: 8314813236914021398
+    second: Curtain.001|pCube20|Take 001|BaseLayer
+  - first:
+      74: 5848857404361287333
+    second: Curtain.001|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: -8007524815595738475
+    second: Curtain.001|pCube21|Take 001|BaseLayer
+  - first:
+      74: 3204650444118270404
+    second: Curtain.001|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: 6663687075735691869
+    second: Curtain.001|pCube22|Take 001|BaseLayer
+  - first:
+      74: 4037532784030431625
+    second: Curtain.001|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: 412935670799689823
+    second: Curtain.001|pCube23|Take 001|BaseLayer
+  - first:
+      74: 3913576338760750241
+    second: Curtain.001|pCube29|Take 001|BaseLayer
+  - first:
+      74: -7001424511545373384
+    second: Curtain.001|pCube2|Take 001|BaseLayer
+  - first:
+      74: -230618510681010682
+    second: Curtain.001|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: 313098707930317835
+    second: Curtain.001|pCube30|Take 001|BaseLayer
+  - first:
+      74: 1265314985585158801
+    second: Curtain.001|pCube3|Take 001|BaseLayer
+  - first:
+      74: -2168072105498508864
+    second: Curtain.001|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: 1988219923131916675
+    second: Curtain.001|pCube4|Take 001|BaseLayer
+  - first:
+      74: -3548639590735468486
+    second: Curtain.001|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: -9019511575639679963
+    second: Curtain.001|pCube9|Take 001|BaseLayer
+  - first:
+      74: 3628389091797057120
+    second: Curtain.001|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: 2038735239582330830
+    second: Curtain.002|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 3077232331008974861
+    second: Curtain.002|grd_comp_swing345|Take 001|BaseLayer
+  - first:
+      74: 7352313215503385425
+    second: Curtain.002|grd_comp_vase01|Take 001|BaseLayer
+  - first:
+      74: 8448424406908153827
+    second: Curtain.002|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: -8502715765834986636
+    second: Curtain.002|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 1413781359801953473
+    second: Curtain.002|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: -2608098366114547574
+    second: Curtain.002|pCube11|Take 001|BaseLayer
+  - first:
+      74: 5786448752225390342
+    second: Curtain.002|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: -3464901341496565311
+    second: Curtain.002|pCube12|Take 001|BaseLayer
+  - first:
+      74: -4063927591938675526
+    second: Curtain.002|pCube13|Take 001|BaseLayer
+  - first:
+      74: 2579619330720373146
+    second: Curtain.002|pCube14|Take 001|BaseLayer
+  - first:
+      74: -3844704308192762967
+    second: Curtain.002|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: -8165760516517793303
+    second: Curtain.002|pCube15|Take 001|BaseLayer
+  - first:
+      74: -860225890353298377
+    second: Curtain.002|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: 3127773748316512779
+    second: Curtain.002|pCube16|Take 001|BaseLayer
+  - first:
+      74: 9076446167027386095
+    second: Curtain.002|pCube17|Take 001|BaseLayer
+  - first:
+      74: 8584307351308608651
+    second: Curtain.002|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: 8552246393349106279
+    second: Curtain.002|pCube18|Take 001|BaseLayer
+  - first:
+      74: -3621536339191304340
+    second: Curtain.002|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: -7006112985851599966
+    second: Curtain.002|pCube19|Take 001|BaseLayer
+  - first:
+      74: 785566379217851713
+    second: Curtain.002|pCube1|Take 001|BaseLayer
+  - first:
+      74: 7565682845801978438
+    second: Curtain.002|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: 2143655845124534222
+    second: Curtain.002|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: 1730886872274748876
+    second: Curtain.002|pCube20|Take 001|BaseLayer
+  - first:
+      74: 5141867915410823508
+    second: Curtain.002|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: -5063974141539118082
+    second: Curtain.002|pCube21|Take 001|BaseLayer
+  - first:
+      74: -2009462899870425767
+    second: Curtain.002|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: -5439237841831082023
+    second: Curtain.002|pCube22|Take 001|BaseLayer
+  - first:
+      74: 5780406632869733579
+    second: Curtain.002|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: -4129870114474627021
+    second: Curtain.002|pCube23|Take 001|BaseLayer
+  - first:
+      74: 4670291709255751692
+    second: Curtain.002|pCube29|Take 001|BaseLayer
+  - first:
+      74: -2818237632021665419
+    second: Curtain.002|pCube2|Take 001|BaseLayer
+  - first:
+      74: 7789317314061052911
+    second: Curtain.002|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: -4857550696105750890
+    second: Curtain.002|pCube30|Take 001|BaseLayer
+  - first:
+      74: 6204387363413082832
+    second: Curtain.002|pCube3|Take 001|BaseLayer
+  - first:
+      74: 3526816887939330216
+    second: Curtain.002|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: 4564430248057096261
+    second: Curtain.002|pCube4|Take 001|BaseLayer
+  - first:
+      74: 5614405991217713636
+    second: Curtain.002|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: -8811847384067277832
+    second: Curtain.002|pCube9|Take 001|BaseLayer
+  - first:
+      74: 5404801691633206805
+    second: Curtain.002|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: -8328014450615158337
+    second: Curtain.003|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 6326282582355146104
+    second: Curtain.003|grd_comp_swing345|Take 001|BaseLayer
+  - first:
+      74: 134654435799587565
+    second: Curtain.003|grd_comp_vase01|Take 001|BaseLayer
+  - first:
+      74: -4313156107846366605
+    second: Curtain.003|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: 2274846810874892437
+    second: Curtain.003|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: -7690557066280972141
+    second: Curtain.003|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 3051073748153871458
+    second: Curtain.003|pCube11|Take 001|BaseLayer
+  - first:
+      74: -4815865853512077092
+    second: Curtain.003|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: -8490069233471032652
+    second: Curtain.003|pCube12|Take 001|BaseLayer
+  - first:
+      74: 7919563390368484984
+    second: Curtain.003|pCube13|Take 001|BaseLayer
+  - first:
+      74: 3973929471063816710
+    second: Curtain.003|pCube14|Take 001|BaseLayer
+  - first:
+      74: -9189035004422017779
+    second: Curtain.003|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: 7196645157680910730
+    second: Curtain.003|pCube15|Take 001|BaseLayer
+  - first:
+      74: 328425132420254494
+    second: Curtain.003|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: -6681276682379729134
+    second: Curtain.003|pCube16|Take 001|BaseLayer
+  - first:
+      74: -3251449315296660115
+    second: Curtain.003|pCube17|Take 001|BaseLayer
+  - first:
+      74: -2238741134829837289
+    second: Curtain.003|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: -569100405342591266
+    second: Curtain.003|pCube18|Take 001|BaseLayer
+  - first:
+      74: -2204230788817938741
+    second: Curtain.003|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: 5993791512270903385
+    second: Curtain.003|pCube19|Take 001|BaseLayer
+  - first:
+      74: 2404018817019744766
+    second: Curtain.003|pCube1|Take 001|BaseLayer
+  - first:
+      74: 6239952859943876211
+    second: Curtain.003|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: -5157666042914547565
+    second: Curtain.003|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: -3168450943358520410
+    second: Curtain.003|pCube20|Take 001|BaseLayer
+  - first:
+      74: 6208557139261786590
+    second: Curtain.003|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: 5943379017869812466
+    second: Curtain.003|pCube21|Take 001|BaseLayer
+  - first:
+      74: 5036280077223374935
+    second: Curtain.003|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: 4503036822754374520
+    second: Curtain.003|pCube22|Take 001|BaseLayer
+  - first:
+      74: 7241383963311919107
+    second: Curtain.003|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: -4143706761604314640
+    second: Curtain.003|pCube23|Take 001|BaseLayer
+  - first:
+      74: 7539321008823854853
+    second: Curtain.003|pCube29|Take 001|BaseLayer
+  - first:
+      74: -9066269588413471715
+    second: Curtain.003|pCube2|Take 001|BaseLayer
+  - first:
+      74: -6075784315382185692
+    second: Curtain.003|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: -5455561561174932207
+    second: Curtain.003|pCube30|Take 001|BaseLayer
+  - first:
+      74: -8667381446102262134
+    second: Curtain.003|pCube3|Take 001|BaseLayer
+  - first:
+      74: -8387936462455138929
+    second: Curtain.003|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: -548265217889034052
+    second: Curtain.003|pCube4|Take 001|BaseLayer
+  - first:
+      74: 7408149039560365351
+    second: Curtain.003|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: 2675194160543610823
+    second: Curtain.003|pCube9|Take 001|BaseLayer
+  - first:
+      74: -5335525194203746499
+    second: Curtain.003|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: 8782901526368700610
+    second: Curtain.004|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 8237395156359811494
+    second: Curtain.004|grd_comp_swing345|Take 001|BaseLayer
+  - first:
+      74: -8036860232982921846
+    second: Curtain.004|grd_comp_vase01|Take 001|BaseLayer
+  - first:
+      74: 1841889380639365868
+    second: Curtain.004|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: 2137256874533138848
+    second: Curtain.004|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 1226150166954604475
+    second: Curtain.004|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: -4257413027431496750
+    second: Curtain.004|pCube11|Take 001|BaseLayer
+  - first:
+      74: 4571944928437659766
+    second: Curtain.004|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: -2984156085349351819
+    second: Curtain.004|pCube12|Take 001|BaseLayer
+  - first:
+      74: -1186063168973685687
+    second: Curtain.004|pCube13|Take 001|BaseLayer
+  - first:
+      74: -2408186201536549078
+    second: Curtain.004|pCube14|Take 001|BaseLayer
+  - first:
+      74: 1020724334315473984
+    second: Curtain.004|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: 3053337624170354966
+    second: Curtain.004|pCube15|Take 001|BaseLayer
+  - first:
+      74: 3111998639305673582
+    second: Curtain.004|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: 782954695935926400
+    second: Curtain.004|pCube16|Take 001|BaseLayer
+  - first:
+      74: 6790443847379411704
+    second: Curtain.004|pCube17|Take 001|BaseLayer
+  - first:
+      74: 8418118831109294737
+    second: Curtain.004|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: -1128691481915289352
+    second: Curtain.004|pCube18|Take 001|BaseLayer
+  - first:
+      74: -7562570028210850343
+    second: Curtain.004|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: 6158510888824557462
+    second: Curtain.004|pCube19|Take 001|BaseLayer
+  - first:
+      74: -4740911212654926733
+    second: Curtain.004|pCube1|Take 001|BaseLayer
+  - first:
+      74: -2811187556344420595
+    second: Curtain.004|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: 2438593058375433893
+    second: Curtain.004|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: 2466963672998785847
+    second: Curtain.004|pCube20|Take 001|BaseLayer
+  - first:
+      74: 7036243599779694316
+    second: Curtain.004|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: -4414829554214629443
+    second: Curtain.004|pCube21|Take 001|BaseLayer
+  - first:
+      74: 7909189939357384747
+    second: Curtain.004|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: 5225362694483283590
+    second: Curtain.004|pCube22|Take 001|BaseLayer
+  - first:
+      74: 3708290240678411415
+    second: Curtain.004|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: 8370114911531078889
+    second: Curtain.004|pCube23|Take 001|BaseLayer
+  - first:
+      74: -5795061985081534558
+    second: Curtain.004|pCube29|Take 001|BaseLayer
+  - first:
+      74: 526066691424254443
+    second: Curtain.004|pCube2|Take 001|BaseLayer
+  - first:
+      74: -2176231048300760617
+    second: Curtain.004|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: -1698963700701648771
+    second: Curtain.004|pCube30|Take 001|BaseLayer
+  - first:
+      74: -8735072670220932895
+    second: Curtain.004|pCube3|Take 001|BaseLayer
+  - first:
+      74: 1684280511029371900
+    second: Curtain.004|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: -907874655317836434
+    second: Curtain.004|pCube4|Take 001|BaseLayer
+  - first:
+      74: -2447808366339781230
+    second: Curtain.004|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: 7854870989799993182
+    second: Curtain.004|pCube9|Take 001|BaseLayer
+  - first:
+      74: -7192264284056828759
+    second: Curtain.004|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: 2380123469763522636
+    second: Curtain.005|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 3021672736440553605
+    second: Curtain.005|grd_comp_swing345|Take 001|BaseLayer
+  - first:
+      74: -7913710602095391078
+    second: Curtain.005|grd_comp_vase01|Take 001|BaseLayer
+  - first:
+      74: -793212185959399336
+    second: Curtain.005|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: 2705979940152471619
+    second: Curtain.005|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 5635225562283928109
+    second: Curtain.005|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: -663292418547627542
+    second: Curtain.005|pCube11|Take 001|BaseLayer
+  - first:
+      74: 996302857618139622
+    second: Curtain.005|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: -599633391377072852
+    second: Curtain.005|pCube12|Take 001|BaseLayer
+  - first:
+      74: 1167311470684882478
+    second: Curtain.005|pCube13|Take 001|BaseLayer
+  - first:
+      74: -4819748944975849168
+    second: Curtain.005|pCube14|Take 001|BaseLayer
+  - first:
+      74: 5130961018249550632
+    second: Curtain.005|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: -2025321879126205571
+    second: Curtain.005|pCube15|Take 001|BaseLayer
+  - first:
+      74: -7137451777763032746
+    second: Curtain.005|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: -5445069883656414086
+    second: Curtain.005|pCube16|Take 001|BaseLayer
+  - first:
+      74: -8324571817043526186
+    second: Curtain.005|pCube17|Take 001|BaseLayer
+  - first:
+      74: -2834398414469088908
+    second: Curtain.005|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: -2906491352138162169
+    second: Curtain.005|pCube18|Take 001|BaseLayer
+  - first:
+      74: -5069552922850164284
+    second: Curtain.005|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: 6442280520124521770
+    second: Curtain.005|pCube19|Take 001|BaseLayer
+  - first:
+      74: -4660983141694876341
+    second: Curtain.005|pCube1|Take 001|BaseLayer
+  - first:
+      74: -8106324499915991368
+    second: Curtain.005|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: -6279648980389517913
+    second: Curtain.005|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: 6646788148546781666
+    second: Curtain.005|pCube20|Take 001|BaseLayer
+  - first:
+      74: 8013991201029041269
+    second: Curtain.005|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: 3496108788725761006
+    second: Curtain.005|pCube21|Take 001|BaseLayer
+  - first:
+      74: 2605213906933286479
+    second: Curtain.005|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: -5884725083219533356
+    second: Curtain.005|pCube22|Take 001|BaseLayer
+  - first:
+      74: 6433907892803106052
+    second: Curtain.005|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: -60415597481708432
+    second: Curtain.005|pCube23|Take 001|BaseLayer
+  - first:
+      74: 3121062207361450641
+    second: Curtain.005|pCube29|Take 001|BaseLayer
+  - first:
+      74: 7754491542298373225
+    second: Curtain.005|pCube2|Take 001|BaseLayer
+  - first:
+      74: -1878273628925942013
+    second: Curtain.005|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: 8034763583107628010
+    second: Curtain.005|pCube30|Take 001|BaseLayer
+  - first:
+      74: -3411905516945947948
+    second: Curtain.005|pCube3|Take 001|BaseLayer
+  - first:
+      74: 3082155211966838955
+    second: Curtain.005|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: 896457198296081218
+    second: Curtain.005|pCube4|Take 001|BaseLayer
+  - first:
+      74: -6889919779378392859
+    second: Curtain.005|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: 7747357597639707228
+    second: Curtain.005|pCube9|Take 001|BaseLayer
+  - first:
+      74: -4842399717740829771
+    second: Curtain.005|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: -6821095370583200554
+    second: CurtainHouse|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 2107511250757835206
+    second: CurtainHouse|grd_comp_swing345|Take 001|BaseLayer
+  - first:
+      74: 1908282123534432506
+    second: CurtainHouse|grd_comp_vase01|Take 001|BaseLayer
+  - first:
+      74: -2081042303374318082
+    second: CurtainHouse|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: -2493494095664013348
+    second: CurtainHouse|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: -1758626589522894249
+    second: CurtainHouse|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 7377205600325408660
+    second: CurtainHouse|pCube11|Take 001|BaseLayer
+  - first:
+      74: -2590214625461720396
+    second: CurtainHouse|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: 8665550988885671554
+    second: CurtainHouse|pCube12|Take 001|BaseLayer
+  - first:
+      74: -7813799509214148315
+    second: CurtainHouse|pCube13|Take 001|BaseLayer
+  - first:
+      74: 8002649593237620061
+    second: CurtainHouse|pCube14|Take 001|BaseLayer
+  - first:
+      74: 8934969692228207726
+    second: CurtainHouse|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: 2150760147768653273
+    second: CurtainHouse|pCube15|Take 001|BaseLayer
+  - first:
+      74: 8766392223527028907
+    second: CurtainHouse|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: -7958258945508966763
+    second: CurtainHouse|pCube16|Take 001|BaseLayer
+  - first:
+      74: -5086622262093147032
+    second: CurtainHouse|pCube17|Take 001|BaseLayer
+  - first:
+      74: -8406027402158925872
+    second: CurtainHouse|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: 2272846037944077428
+    second: CurtainHouse|pCube18|Take 001|BaseLayer
+  - first:
+      74: 9109684295463313065
+    second: CurtainHouse|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: -5224099905095727094
+    second: CurtainHouse|pCube19|Take 001|BaseLayer
+  - first:
+      74: 5020781330649268677
+    second: CurtainHouse|pCube1|Take 001|BaseLayer
+  - first:
+      74: -7948415868476325008
+    second: CurtainHouse|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: -3236906077158530585
+    second: CurtainHouse|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: -6404080958247652338
+    second: CurtainHouse|pCube20|Take 001|BaseLayer
+  - first:
+      74: -3881513783814883121
+    second: CurtainHouse|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: -4102371248175652112
+    second: CurtainHouse|pCube21|Take 001|BaseLayer
+  - first:
+      74: 6458734613304779251
+    second: CurtainHouse|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: -4571136664310183690
+    second: CurtainHouse|pCube22|Take 001|BaseLayer
+  - first:
+      74: -4658551544444322647
+    second: CurtainHouse|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: -2860050591757089331
+    second: CurtainHouse|pCube23|Take 001|BaseLayer
+  - first:
+      74: 3527520734461703842
+    second: CurtainHouse|pCube29|Take 001|BaseLayer
+  - first:
+      74: -6274322313992224392
+    second: CurtainHouse|pCube2|Take 001|BaseLayer
+  - first:
+      74: -5108127483636578177
+    second: CurtainHouse|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: 29824933479064449
+    second: CurtainHouse|pCube30|Take 001|BaseLayer
+  - first:
+      74: -4948722405383849535
+    second: CurtainHouse|pCube3|Take 001|BaseLayer
+  - first:
+      74: 377590099771527884
+    second: CurtainHouse|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: 7753109841455614110
+    second: CurtainHouse|pCube4|Take 001|BaseLayer
+  - first:
+      74: 4884512494693740982
+    second: CurtainHouse|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: -5270446875390891245
+    second: CurtainHouse|pCube9|Take 001|BaseLayer
+  - first:
+      74: -8353963766564086010
+    second: CurtainHouse|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: -3825605088559235387
+    second: CurtainHouse.001|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: -781482856016172604
+    second: CurtainHouse.001|grd_comp_swing345|Take 001|BaseLayer
+  - first:
+      74: -4504633488507979542
+    second: CurtainHouse.001|grd_comp_vase01|Take 001|BaseLayer
+  - first:
+      74: 9082093450541094562
+    second: CurtainHouse.001|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: 6647109688668459616
+    second: CurtainHouse.001|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: -7417781346989550665
+    second: CurtainHouse.001|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: -7022875171729772782
+    second: CurtainHouse.001|pCube11|Take 001|BaseLayer
+  - first:
+      74: -1653937322949564940
+    second: CurtainHouse.001|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: -1806766054682024413
+    second: CurtainHouse.001|pCube12|Take 001|BaseLayer
+  - first:
+      74: -825346273967403919
+    second: CurtainHouse.001|pCube13|Take 001|BaseLayer
+  - first:
+      74: 1494761427909380355
+    second: CurtainHouse.001|pCube14|Take 001|BaseLayer
+  - first:
+      74: -2696446728901345197
+    second: CurtainHouse.001|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: 8945035508003013911
+    second: CurtainHouse.001|pCube15|Take 001|BaseLayer
+  - first:
+      74: -416464988465831665
+    second: CurtainHouse.001|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: -1190121812494112733
+    second: CurtainHouse.001|pCube16|Take 001|BaseLayer
+  - first:
+      74: 1667474077635495220
+    second: CurtainHouse.001|pCube17|Take 001|BaseLayer
+  - first:
+      74: 5296210925772249324
+    second: CurtainHouse.001|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: 6544122956950501026
+    second: CurtainHouse.001|pCube18|Take 001|BaseLayer
+  - first:
+      74: 8869058642389018850
+    second: CurtainHouse.001|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: -2447881300939660154
+    second: CurtainHouse.001|pCube19|Take 001|BaseLayer
+  - first:
+      74: -6780406486266178862
+    second: CurtainHouse.001|pCube1|Take 001|BaseLayer
+  - first:
+      74: 5419246461888968673
+    second: CurtainHouse.001|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: -6649970691186211316
+    second: CurtainHouse.001|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: -731106565256190903
+    second: CurtainHouse.001|pCube20|Take 001|BaseLayer
+  - first:
+      74: 373847701238503524
+    second: CurtainHouse.001|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: -208556759185512005
+    second: CurtainHouse.001|pCube21|Take 001|BaseLayer
+  - first:
+      74: -2475651954178323420
+    second: CurtainHouse.001|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: 4309741117123702235
+    second: CurtainHouse.001|pCube22|Take 001|BaseLayer
+  - first:
+      74: -7200280462342610718
+    second: CurtainHouse.001|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: 351327130163135934
+    second: CurtainHouse.001|pCube23|Take 001|BaseLayer
+  - first:
+      74: 6283991367740171161
+    second: CurtainHouse.001|pCube29|Take 001|BaseLayer
+  - first:
+      74: 8899469354365400813
+    second: CurtainHouse.001|pCube2|Take 001|BaseLayer
+  - first:
+      74: 6837960909729191228
+    second: CurtainHouse.001|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: -5180696863499223988
+    second: CurtainHouse.001|pCube30|Take 001|BaseLayer
+  - first:
+      74: -2322264423746100654
+    second: CurtainHouse.001|pCube3|Take 001|BaseLayer
+  - first:
+      74: 7839608917901359179
+    second: CurtainHouse.001|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: 674061986415015993
+    second: CurtainHouse.001|pCube4|Take 001|BaseLayer
+  - first:
+      74: -4971630171889152345
+    second: CurtainHouse.001|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: -996517216825076741
+    second: CurtainHouse.001|pCube9|Take 001|BaseLayer
+  - first:
+      74: 4878652857484286126
+    second: CurtainHouse.001|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: 45449029573588377
+    second: CutrainHouse|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: 4622217462103142800
+    second: CutrainHouse|grd_comp_swing345|Take 001|BaseLayer
+  - first:
+      74: 650114875733385653
+    second: CutrainHouse|grd_comp_vase01|Take 001|BaseLayer
+  - first:
+      74: -4644372300134332893
+    second: CutrainHouse|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: 1751537989870664899
+    second: CutrainHouse|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 4825153962797605360
+    second: CutrainHouse|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: 8585158308967602625
+    second: CutrainHouse|pCube11|Take 001|BaseLayer
+  - first:
+      74: 964837538284447794
+    second: CutrainHouse|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: 1179834332703362933
+    second: CutrainHouse|pCube12|Take 001|BaseLayer
+  - first:
+      74: -1421776842627451642
+    second: CutrainHouse|pCube13|Take 001|BaseLayer
+  - first:
+      74: 1580504927161232952
+    second: CutrainHouse|pCube14|Take 001|BaseLayer
+  - first:
+      74: 1376793109810304782
+    second: CutrainHouse|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: 4006693134466700994
+    second: CutrainHouse|pCube15|Take 001|BaseLayer
+  - first:
+      74: -4088080892370880235
+    second: CutrainHouse|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: 1812121835152715209
+    second: CutrainHouse|pCube16|Take 001|BaseLayer
+  - first:
+      74: -1034826751539807530
+    second: CutrainHouse|pCube17|Take 001|BaseLayer
+  - first:
+      74: 3298190512018750279
+    second: CutrainHouse|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: 1923721037624209933
+    second: CutrainHouse|pCube18|Take 001|BaseLayer
+  - first:
+      74: 465101811416611493
+    second: CutrainHouse|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: -7084532210930007918
+    second: CutrainHouse|pCube19|Take 001|BaseLayer
+  - first:
+      74: 5545925285199384604
+    second: CutrainHouse|pCube1|Take 001|BaseLayer
+  - first:
+      74: -2099659779208614510
+    second: CutrainHouse|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: -9192269938430583423
+    second: CutrainHouse|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: 7599517352966204993
+    second: CutrainHouse|pCube20|Take 001|BaseLayer
+  - first:
+      74: -2609172686265883462
+    second: CutrainHouse|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: 7305265383942991704
+    second: CutrainHouse|pCube21|Take 001|BaseLayer
+  - first:
+      74: 4509202034270099288
+    second: CutrainHouse|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: -4685688032022832662
+    second: CutrainHouse|pCube22|Take 001|BaseLayer
+  - first:
+      74: 6557717356031742121
+    second: CutrainHouse|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: 4428420007587422125
+    second: CutrainHouse|pCube23|Take 001|BaseLayer
+  - first:
+      74: -2904044209546986987
+    second: CutrainHouse|pCube29|Take 001|BaseLayer
+  - first:
+      74: -1387958747115568415
+    second: CutrainHouse|pCube2|Take 001|BaseLayer
+  - first:
+      74: -9190505157581023675
+    second: CutrainHouse|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: 148114025474595848
+    second: CutrainHouse|pCube30|Take 001|BaseLayer
+  - first:
+      74: -3426152844622756804
+    second: CutrainHouse|pCube3|Take 001|BaseLayer
+  - first:
+      74: 6668387110442715839
+    second: CutrainHouse|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: -2651290957991092839
+    second: CutrainHouse|pCube4|Take 001|BaseLayer
+  - first:
+      74: -5151562135539840301
+    second: CutrainHouse|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: 1640990884805142136
+    second: CutrainHouse|pCube9|Take 001|BaseLayer
+  - first:
+      74: 6421355838055376415
+    second: CutrainHouse|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: 3994945275796933133
+    second: TubTowel|CoronaCamera001|Take 001|BaseLayer
+  - first:
+      74: -5347166772971101071
+    second: TubTowel|grd_comp_swing345|Take 001|BaseLayer
+  - first:
+      74: 2193962011763366064
+    second: TubTowel|grd_comp_vase01|Take 001|BaseLayer
+  - first:
+      74: 1190819961736707758
+    second: TubTowel|group1_pCube1|Take 001|BaseLayer
+  - first:
+      74: -1602228100357105854
+    second: TubTowel|mirabel_98_pewter|Take 001|BaseLayer
+  - first:
+      74: 2434189962003031227
+    second: TubTowel|mirabel_98_pewter|Take 001|BaseLayer.004
+  - first:
+      74: -4414178269745450250
+    second: TubTowel|pCube11|Take 001|BaseLayer
+  - first:
+      74: -158110526568827584
+    second: TubTowel|pCube12.001|Take 001|BaseLayer
+  - first:
+      74: 2442239450461528218
+    second: TubTowel|pCube12|Take 001|BaseLayer
+  - first:
+      74: 1194950710617641290
+    second: TubTowel|pCube13|Take 001|BaseLayer
+  - first:
+      74: -6221708534762095636
+    second: TubTowel|pCube14|Take 001|BaseLayer
+  - first:
+      74: 148217910795013482
+    second: TubTowel|pCube15.001|Take 001|BaseLayer
+  - first:
+      74: 3057923127418385742
+    second: TubTowel|pCube15|Take 001|BaseLayer
+  - first:
+      74: 9047526138189232988
+    second: TubTowel|pCube16.001|Take 001|BaseLayer
+  - first:
+      74: -2117785103134564063
+    second: TubTowel|pCube16|Take 001|BaseLayer
+  - first:
+      74: 833890835105140537
+    second: TubTowel|pCube17|Take 001|BaseLayer
+  - first:
+      74: -3447070349235967047
+    second: TubTowel|pCube18.001|Take 001|BaseLayer
+  - first:
+      74: -5831026086150264423
+    second: TubTowel|pCube18|Take 001|BaseLayer
+  - first:
+      74: 113548167989205370
+    second: TubTowel|pCube19.001|Take 001|BaseLayer
+  - first:
+      74: -227876066058458754
+    second: TubTowel|pCube19|Take 001|BaseLayer
+  - first:
+      74: -8633948575583454521
+    second: TubTowel|pCube1|Take 001|BaseLayer
+  - first:
+      74: 5228838479068805261
+    second: TubTowel|pCube2.001|Take 001|BaseLayer
+  - first:
+      74: 2323696122281220692
+    second: TubTowel|pCube20.001|Take 001|BaseLayer
+  - first:
+      74: 3245450170352937970
+    second: TubTowel|pCube20|Take 001|BaseLayer
+  - first:
+      74: -8347512552399768985
+    second: TubTowel|pCube21.001|Take 001|BaseLayer
+  - first:
+      74: 7278518105117399997
+    second: TubTowel|pCube21|Take 001|BaseLayer
+  - first:
+      74: 7489875789361145132
+    second: TubTowel|pCube22.001|Take 001|BaseLayer
+  - first:
+      74: 4137769520583695062
+    second: TubTowel|pCube22|Take 001|BaseLayer
+  - first:
+      74: 866635242443435906
+    second: TubTowel|pCube23.001|Take 001|BaseLayer
+  - first:
+      74: 6285116911449918078
+    second: TubTowel|pCube23|Take 001|BaseLayer
+  - first:
+      74: -7215795528498359151
+    second: TubTowel|pCube29|Take 001|BaseLayer
+  - first:
+      74: -7013547092655285078
+    second: TubTowel|pCube2|Take 001|BaseLayer
+  - first:
+      74: 2178021153669777155
+    second: TubTowel|pCube3.001|Take 001|BaseLayer
+  - first:
+      74: -8122461403871719291
+    second: TubTowel|pCube30|Take 001|BaseLayer
+  - first:
+      74: 1239854601034104106
+    second: TubTowel|pCube3|Take 001|BaseLayer
+  - first:
+      74: -29408167820789539
+    second: TubTowel|pCube4.001|Take 001|BaseLayer
+  - first:
+      74: 4080648958123470210
+    second: TubTowel|pCube4|Take 001|BaseLayer
+  - first:
+      74: 1067882166485574081
+    second: TubTowel|pCube9.001|Take 001|BaseLayer
+  - first:
+      74: 3177582765163733772
+    second: TubTowel|pCube9|Take 001|BaseLayer
+  - first:
+      74: -6839678417299616330
+    second: TubTowel|pCylinder10|Take 001|BaseLayer
+  - first:
+      74: -5109534228193397791
+    second: TubTowel|TubTowelAction
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -1930,6 +3013,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Floor
     second: {fileID: 2100000, guid: 261f7d313a4076d4483467e48d5f467f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorLight
+    second: {fileID: 2100000, guid: 452d7f92b4840354999017b237d0337d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
